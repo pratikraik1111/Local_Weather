@@ -4,10 +4,8 @@
 
 ### This  web project done in html,css ,js
 
-#### Web link 
+#### Web link: https://pratikraik1111.github.io/Local_Weather/
 
- 
- #### netlify link
  
  
 ### Features of the project.
